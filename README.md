@@ -1,2 +1,2 @@
 # HTTP-proxy
-A proxy to view malicious HTTP and HTTPS content on websites
+A proxy to ensures that users are only using HTTPS for web communications
